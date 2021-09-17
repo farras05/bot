@@ -1,0 +1,30 @@
+{
+  "name": "ledger-mail-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "zapestra",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha": "^2.1.7",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.2",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "random-name": "^0.1.2",
+    "randomatic": "^3.1.1",
+    "readline-sync": "^1.4.10"
+  },
+  "description": ""
+}
